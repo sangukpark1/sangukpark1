@@ -12,7 +12,7 @@
   <img alt="Chakra-UI" src="https://img.shields.io/badge/-Chakra_UI-319795?style=flat-square&logo=chakra-ui&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="PM2" src="https://img.shields.io/badge/-PM2-2B037A?style=flat-square&logo=pm2&logoColor=white" />
-  <img alt="tRPC" src="https://img.shields.io/badge/-tRPC-2596BE?style=flat-square&logo=pm2&logoColor=white" />
+  <img alt="tRPC" src="https://img.shields.io/badge/-tRPC-2596BE?style=flat-square&logo=tRPC&logoColor=white" />
   
   
 </p>
